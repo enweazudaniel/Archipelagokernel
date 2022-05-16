@@ -1,3 +1,3 @@
 # Archipelagokernel
-Archipelago Kernel official site  https://enweazudaniel.github.io/Archipelagokernel/
+Archipelago Kernel official [Website](https://enweazudaniel.github.io/Archipelagokernel/)
 
